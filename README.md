@@ -105,7 +105,7 @@ This improves scalability and future design iterations.
 ## 🎨 Component Variants
 
 <p align="center">
-  <img src="newlaunch.png" width="300"/>
+  <img src="new launch.png" width="300"/>
 </p>
 
 # 🚀 Future Improvements
