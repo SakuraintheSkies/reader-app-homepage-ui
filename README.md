@@ -89,7 +89,7 @@ This improves scalability and future design iterations.
 ## 📱 High-Fidelity Mockup
 
 <p align="center">
-  <img src="homepage.png" width="300"/>
+  <img src="mockup.png" width="300"/>
 </p>
 
 ---
@@ -105,7 +105,7 @@ This improves scalability and future design iterations.
 ## 🎨 Component Variants
 
 <p align="center">
-  <img src="variants.png" width="300"/>
+  <img src="newlaunch.png" width="300"/>
 </p>
 
 # 🚀 Future Improvements
